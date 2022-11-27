@@ -1,5 +1,5 @@
 <div>
-  <h1 align='center'> 👋 Eai? seja bem vindo(a). </h1>
+  <h1 align='center'> 👋 Eai? Seja bem vindo(a). </h1>
 </div>
 
 <div>
