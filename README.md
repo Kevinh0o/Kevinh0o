@@ -24,7 +24,10 @@
        <p>Tenho interesse em posteriormente estudar Back-end também.</p>
      </li>
       <li> 
-        <p>Meu projeto mais recente : https://calcule-tudo.vercel.app/ </p>
+        <p>Meus projetos mais recentes :</p>
+        <p> <a href="https://calcule-tudo.vercel.app/">Calcule tudo</a> </p>
+        <p> <a href="https://print-cat-images-2zdbh702d-kevinh0o.vercel.app">Print Cat Images</a> </p>
+        <p> <a href="https://print-dog-images-c0et3op2j-kevinh0o.vercel.app">Print Dog Images </a> </p>
       </li>
   </ul>
 </div>
