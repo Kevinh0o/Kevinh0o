@@ -25,7 +25,7 @@
      </li>
       <li> 
         <p>Meus projetos mais recentes :</p>
-        <p> <a href="https://notes-with-firebase.vercel.app/login">Notas - Autenticação</a> </p>
+        <p> <a href="https://notes-with-firebase.vercel.app/">Notas - Autenticação</a> </p>
         <p> <a href="https://calcule-tudo.vercel.app/">Calcule tudo</a> </p>
         <p> <a href="https://print-cat-images-2zdbh702d-kevinh0o.vercel.app">Print Cat Images</a> </p>
         <p> <a href="https://print-dog-images-c0et3op2j-kevinh0o.vercel.app">Print Dog Images </a> </p>
