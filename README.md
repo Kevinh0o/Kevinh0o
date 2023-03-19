@@ -18,19 +18,15 @@
   </em>
   <ul>
     <li> 
-      <p>Atualmente estou estudando e desenvolvendo projetos em React. 📝</p>
+      <p>Atualmente estou estudando e desenvolvendo projetos em React e Next.js 📝</p>
     </li>
      <li> 
-       <p>Tenho interesse em posteriormente estudar Back-end também.</p>
+       <p>Veja meu Portifolio <a href="https://kevi.site"> aqui. </a>👌</p>
      </li>
-      <li> 
-        <p>Meus projetos mais recentes :</p>
-        <p> <a href="https://kevi.site">Portifolio</a> </p>
         <p> <a href="https://notes-with-firebase.vercel.app/">Notas - Autenticação</a> </p>
         <p> <a href="https://calcule-tudo.vercel.app/">Calcule tudo</a> </p>
         <p> <a href="https://print-cat-images-2zdbh702d-kevinh0o.vercel.app">Print Cat Images</a> </p>
         <p> <a href="https://print-dog-images-c0et3op2j-kevinh0o.vercel.app">Print Dog Images </a> </p>
-      </li>
   </ul>
 </div>
 
@@ -57,11 +53,13 @@
       </td>
       <td>
         <img height="32" width="32" src="https://cdn.simpleicons.org/react/61DAFB" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/next.js/FFFFFF" />
       </td>
       <td>
         <img height="32" width="32" src="https://cdn.simpleicons.org/vite/646CFF3" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/339933" />
         <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />
+        <img height="32" width="32" src="https://cdn.simpleicons.org/styledcomponents/FFFFFF" />
        </td>
     </tr>
   </table>
