@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <p align='center'> ✨ Desenvolvedor WEB Front-End ✨ </p>
+  <p align='center'> ✨ Desenvolvedor Full-stack ✨ </p>
 </div>
 
 <br>
@@ -13,17 +13,13 @@
 </div>
 
 <div>
-  <em> Olá, meu nome é Kevin Henrique, moro no Rio Grande do Sul. Sou estudante de Tecnologia cursando ADS, meu principal foco de estudo é desenvolvimento
-    Front-End utilizando React e aspirante a desenvolvedor mobile.
+  <em> Olá, meu nome é Kevin Henrique, moro no Rio Grande do Sul. Sou estudante de Tecnologia cursando Análise e Desenvolvimento de Sistemas e amo resolver problemas.
   </em>
   <ul>
-    <li> 
-      <p>Atualmente estou estudando e desenvolvendo projetos em React e Next.js 📝</p>
-    </li>
-     <li> 
-       <p>Veja meu Portifolio <a href="https://kevi.site"> aqui. </a>👌</p>
-     </li>
-        <p> <a href="https://notes-with-firebase.vercel.app/">Notas - Autenticação</a> </p>
+        <p> <a href="https://m-place.vercel.app/">M-place - A smartphone marketpalce with Mercado Pago payment api integration</a> </p>
+        <p> <a href="https://ytb-download.vercel.app/">Youtube audio downloader</a> </p>
+        <p> <a href="https://api-we-ather.vercel.app/">Weather API- Weather app</a> </p>
+        <p> <a href="https://notes-with-firebase.vercel.app/">Notas - Note taking app with atuthentication with firebase</a> </p>
         <p> <a href="https://calcule-tudo.vercel.app/">Calcule tudo</a> </p>
         <p> <a href="https://print-cat-images-2zdbh702d-kevinh0o.vercel.app">Print Cat Images</a> </p>
         <p> <a href="https://print-dog-images-c0et3op2j-kevinh0o.vercel.app">Print Dog Images </a> </p>
