@@ -15,7 +15,9 @@
 <div>
   <em> Olá, meu nome é Kevin Henrique, moro no Rio Grande do Sul. Sou estudante de Tecnologia cursando Análise e Desenvolvimento de Sistemas e amo resolver problemas.
   </em>
-  <p> Veja meus projetos. </p>>
+  
+  <p> Veja meus projetos. </p>
+  
   <ul>
         <p> <a href="https://m-place.vercel.app/">M-place - A smartphone marketpalce with Mercado Pago payment api integration</a> </p>
         <p> <a href="https://ytb-download.vercel.app/">Youtube audio downloader</a> </p>
